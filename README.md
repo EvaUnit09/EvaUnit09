@@ -8,7 +8,7 @@ Fun Facts
 <li>Lived in Japan for 4 years</li>
 <li>Had a max bench press of 340lbs at 22</li>
 <li>Have beaten Elden Ring. No biggie</li>
-<li>In April 2022 I ran 186.5 miles in one month to complete a strava challenge</li>
+<li>In April 2022 I ran 186.5 miles to complete a strava challenge</li>
 </ul>
 
 <!---
