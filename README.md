@@ -1,4 +1,4 @@
-<h1>-EvaUnit09 aka Noah</h1>
+<h1>-EvaUnit09</h1>
 
 <h2>USMC veteran//Film enthusiast//IT guy//Gamer - looking to make my developer dreams a reality, build performant projects, and ultimately craft really awesome software.</h2>
 
