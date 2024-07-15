@@ -9,6 +9,7 @@ Fun Facts
 <li>Had a max bench press of 340lbs at 22</li>
 <li>Have beaten Elden Ring. No biggie</li>
 <li>In April 2022 I ran 186.5 miles to complete a strava challenge</li>
+<li>Currently hold Security+ and A+ from Comptia</li>
 </ul>
 
 <!---
