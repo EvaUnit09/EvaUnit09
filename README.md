@@ -1,6 +1,6 @@
 <h1>-EvaUnit09</h1>
 
-<h2>USMC veteran//Film enthusiast//IT guy - looking to build cool projects, and ultimately craft really awesome software.</h2>
+<h2>USMC veteran//Film enthusiast//IT guy - looking to build cool projects, and ultimately really awesome software.</h2>
 
 Fun Facts
 <ul>
@@ -9,7 +9,6 @@ Fun Facts
 <li>Had a max bench press of 340lbs at 22</li>
 <li>Have beaten Elden Ring. No biggie</li>
 <li>In April 2022 I ran 186.5 miles to complete a strava challenge</li>
-<li>Currently hold Security+ and A+ from Comptia</li>
 </ul>
 
 <!---
