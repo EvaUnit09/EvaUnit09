@@ -4,7 +4,6 @@
 
 Fun Facts
 <ul>
-<li>I have a degree in film focuesd in cinematography </li>
 <li>Lived in Japan for 4 years</li>
 <li>Had a max bench press of 340lbs at 22</li>
 <li>Have beaten Elden Ring. No biggie</li>
