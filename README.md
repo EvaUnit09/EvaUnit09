@@ -5,9 +5,9 @@
 Fun Facts
 <ul>
 <li>Lived in Japan for 4 years</li>
-<li>Had a max bench press of 340lbs at 22</li>
 <li>Video game enjoyer</li>
 <li>completed strava 300km 1 month run challenge </li>
+<li>Cat Owner</li>
 </ul>
 
 <!---
